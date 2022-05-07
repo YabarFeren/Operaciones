@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Operaciones2</string>
+    <string name="codigo1">numero 1</string>
+    <string name="codigo2">numero 2</string>
+    <string name="codigo7">Limpiar</string>
+    <string name="codigo8">el resultado es:</string>
+    <string name="username_required">hola</string>
+</resources>
